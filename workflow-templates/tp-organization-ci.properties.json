@@ -1,0 +1,11 @@
+{
+    "name": "Theory and Principle Organization Workflow",
+    "description": "Theory and Principle Organization CI workflow template.",
+    "iconName": "tp_logo",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
